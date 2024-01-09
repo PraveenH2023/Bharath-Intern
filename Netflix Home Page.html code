@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous" />
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/d1c2ea8b80.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div class="home-bg-container p-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-6">
+                    <img src="https://res.cloudinary.com/dicqlqbdj/image/upload/v1704378062/netflix-logo-png-large_cdhdah.png" class="netflix-image shadow" />
+                </div>
+                <div class="col-6 ">
+                    <div class="d-flex flex-row justify-content-end">
+                        <div><button class="home-page-view-button"># English</button> </div>
+                        <div><button class="home-page-signin-button">Sign In</button></div>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 ">
+                    <h1 class="heading">Unlimited movies, Tv show and more</h1>
+                    <p class="paragraph">Watch anywhere. Cancel anytime.</p>
+                    <p class="paragraph">Ready to watch? Enter your email to create or restart your membership.</p>
+                </div>
+                <div class="col-12 col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 mb-3">
+                    <div class="text-center">
+                        <button class="email-address-button">Email address</button>
+                        <button class="get-started-button">Get started > </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="bottom-pages-bg-container p-3 ">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-sm-12 col-md-6 text-center text-md-left">
+                    <h1 class="bottom-pages-heading">Enjoy on your TV</h1>
+                    <p class="bottom-pages-paragraph">Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.</p>
+                </div>
+                <div class="col-12 col-sm-12 col-md-6 ">
+                    <div class="d-flex flex-row justify-content-center">
+                        <div class="image-card-container ">
+                            <img src="https://res.cloudinary.com/dicqlqbdj/image/upload/v1704784617/netflix-ui-1_v0gewp.png" class="w-100" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="bottom-pages-bg-container p-3 ">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-sm-12 col-md-6 d-md-none text-center text-md-left">
+                    <h1 class="bottom-pages-heading">Download your shows to watch offline</h1>
+                    <p class="bottom-pages-paragraph">Save your favourites easily and always have something to watch.</p>
+                </div>
+                <div class="col-12 col-sm-12 col-md-6 ">
+                    <div class="d-flex flex-row justify-content-center">
+                        <div class="image-card-container ">
+                            <img src="https://res.cloudinary.com/dicqlqbdj/image/upload/v1704791948/104137979-4ED1-REQ-NetflixOffline-J-113016_vfzh2x.jpg" class="w-100" />
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-12 col-md-6 d-none d-md-block text-center text-md-left">
+                    <h1 class="bottom-pages-heading">Download your shows to watch offline</h1>
+                    <p class="bottom-pages-paragraph">Save your favourites easily and always have something to watch.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="bottom-pages-bg-container p-3 ">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-sm-12 col-md-6 text-center text-md-left">
+                    <h1 class="bottom-pages-heading">Watch everywhere</h1>
+                    <p class="bottom-pages-paragraph">Stream unlimited movies and TV shows on your phone, tablet, laptop, and TV.</p>
+                </div>
+                <div class="col-12 col-sm-12 col-md-6 ">
+                    <div class="d-flex flex-row justify-content-center">
+                        <div class="image-card-container ">
+                            <img src="https://res.cloudinary.com/dicqlqbdj/image/upload/v1704792770/about_iphone_qg0loj.png" class="w-100" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="bottom-pages-bg-container p-3 ">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-sm-12 col-md-6 d-md-none text-center text-md-left">
+                    <h1 class="bottom-pages-heading">Create profiles for kids</h1>
+                    <p class="bottom-pages-paragraph">Send children on adventures with their favourite characters in a space made just for them—free with your membership.</p>
+                </div>
+                <div class="col-12 col-sm-12 col-md-6 ">
+                    <div class="d-flex flex-row justify-content-center">
+                        <div class="image-card-container ">
+                            <img src="https://res.cloudinary.com/dicqlqbdj/image/upload/v1704792948/AAAABejKYujIIDQciqmGJJ8BtXkYKKTi5jiqexltvN1YmvXYIfX8B9CYwooUSIzOKneblRFthZAFsYLMgKMyNfeHwk16DmEkpIIcb6A3_vzcpfa.png" class="w-100" />
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-12 col-md-6 d-none d-md-block text-center text-md-left">
+                    <h1 class="bottom-pages-heading">Create profiles for kids</h1>
+                    <p class="bottom-pages-paragraph">Send children on adventures with their favourite characters in a space made just for them—free with your membership.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="bottom-pages-bg-container pb-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h1 class="heading">Frequently Asked Questions</h1>
+                    <div class="bg-dark  p-2 mb-2">
+                        <p class="bottom-pages-paragraph">What is Netflix?</p>
+                    </div>
+                    <div class="bg-dark  p-2 mb-2">
+                        <p class="bottom-pages-paragraph">How much does Netflix cost?</p>
+                    </div>
+                    <div class="bg-dark  p-2 mb-2">
+                        <p class="bottom-pages-paragraph">Where can I watch?</p>
+                    </div>
+                    <div class="bg-dark  p-2 mb-2">
+                        <p class="bottom-pages-paragraph">How do I cancle?</p>
+                    </div>
+                    <div class="bg-dark  p-2 mb-2">
+                        <p class="bottom-pages-paragraph">What can I watch on Netflix?</p>
+                    </div>
+                    <div class="bg-dark  p-2 mb-2">
+                        <p class="bottom-pages-paragraph">Is Netflix good for kids?</p>
+                    </div>
+                </div>
+                <div class="col-12 col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 mb-3">
+                    <p class="paragraph">Ready to watch? Enter your email to create or restart your membership.</p>
+                    <div class="text-center">
+                        <button class="email-address-button">Email address</button>
+                        <button class="get-started-button">Get started > </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="bottom-pages-bg-container pt-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <p class="footer-section-paragraph1">Questions? Call 000-800-919-1694</p>
+                </div>
+                <div class="col-6 col-md-3 col-lg-3 col-xl-3 ">
+                    <div class="text-left">
+                        <p class="footer-section-paragraph">FAQ<br>
+                            Account<br>
+                            Investor Relations<br>
+                            Ways to Watch<br>
+                        </p>
+                        <div><button class="home-page-view-button"># English</button> </div>
+                    </div>
+                </div>
+                <div class="col-6 col-md-3 col-lg-3 col-xl-3 ">
+                    <div class="text-left">
+                        <p class="footer-section-paragraph">Corporate Information <br>
+                            Speed Test<br>
+                            Only on Netflix<br>
+                            Help Center<br>
+                        </p>
+                    </div>
+                </div>
+                <div class="col-6 col-md-3 col-lg-3 col-xl-3 ">
+                    <div class="text-left">
+                        <p class="footer-section-paragraph">Media Centre<br>
+                            Jobs<br>
+                            Terms of Use<br>
+                            Cookie Preferences<br>
+                        </p>
+                    </div>
+                </div>
+                <div class="col-6 col-md-3 col-lg-3 col-xl-3 ">
+                    <div class="text-left">
+                        <p class="footer-section-paragraph">Contact Us <br>
+                            Legal Notices<br>
+                            Netflix India<br>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
