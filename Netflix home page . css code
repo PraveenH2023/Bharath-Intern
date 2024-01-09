@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.home-bg-container {
+    background-image: url("https://res.cloudinary.com/dicqlqbdj/image/upload/v1704377198/Netflix_go8obl.jpg");
+    background-size: cover;
+    border-image: fill 0 radial-gradient(#0003, #000);
+
+}
+
+.netflix-image {
+    height: 25px;
+    width: 80px;
+}
+
+.home-page-view-button {
+    font-size: 10px;
+    color: #fff;
+    height: 25px;
+    width: 60px;
+    border-style: solid;
+    border-radius: 6px;
+    border-width: 2px;
+    border-color: gray;
+    background-color: transparent;
+    margin-right: 10px;
+}
+
+.home-page-signin-button {
+    font-size: 10px;
+    color: #fff;
+    height: 25px;
+    width: 60px;
+    border-style: solid;
+    border-radius: 6px;
+    border-width: 0px;
+    background-color: red;
+}
+
+.heading {
+    font-size: 25px;
+    font-family: "Roboto";
+    font-weight: bold;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.paragraph {
+    font-size: 14px;
+    font-family: "Roboto";
+    color: #ffffff;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.email-address-button {
+    font-size: 12px;
+    font-family: "Roboto";
+    color: #ada1a3;
+    height: 35px;
+    width: 240px;
+    border-style: solid;
+    border-radius: 4px;
+    border-width: 2px;
+    border-color: gray;
+    background-color: transparent;
+    margin-bottom: 10px;
+    text-align: left;
+    border-image: fill 0 radial-gradient(#0003);
+}
+
+.get-started-button {
+    font-size: 18px;
+    font-family: "Roboto";
+    color: #fff;
+    height: 35px;
+    width: 120px;
+    border-style: solid;
+    border-radius: 4px;
+    border-width: 0px;
+    background-color: red;
+}
+
+
+.bottom-pages-bg-container {
+    background-color: #0a0002;
+    background-size: cover;
+    height: 100%;
+    border-top-width: 5px;
+    border-top-style: solid;
+    border-top-color: #302829;
+}
+
+.bottom-pages-heading {
+    font-size: 25px;
+    font-family: "Roboto";
+    font-weight: bold;
+    color: #ffffff;
+    margin-top: 25px;
+}
+
+.bottom-pages-paragraph {
+    font-size: 14px;
+    font-family: "Roboto";
+    color: #ffffff;
+    margin-top: 5px;
+}
+
+.image-card-container {
+    height: 200px;
+    width: 250px;
+    margin-top: 25px;
+}
+
+.footer-section-paragraph1 {
+    font-size: 12px;
+    font-family: "Roboto";
+    color: #ada1a3;
+    margin-top: 5px;
+    text-decoration: underline;
+}
+
+.footer-section-paragraph {
+    font-size: 12px;
+    font-family: "Roboto";
+    color: #ada1a3;
+    text-decoration: underline;
+}
